@@ -7,12 +7,12 @@ import { useEffect, useState } from "react";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCRLPodKkl2utKlSmruJwpxnnY_DjHaP-8",
-  authDomain: "simpleblogpage.firebaseapp.com",
-  projectId: "simpleblogpage",
-  storageBucket: "simpleblogpage.appspot.com",
-  messagingSenderId: "16109614713",
-  appId: "1:16109614713:web:267a07c0bbfc47254506a8"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
